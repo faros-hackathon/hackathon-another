@@ -20,7 +20,7 @@ curl --request POST \
           "environment": "'"$ENVIRONMENT"'",
           "application": "'"$CIRCLE_PROJECT_REPONAME"'",
           "source": "Github",
-          "status": "Success",
+          "status": "Failed",
           "startTime": "'"$START_TIME"'",
           "endTime": "'"$END_TIME"'"
         },
