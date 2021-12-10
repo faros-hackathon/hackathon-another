@@ -1,2 +1,2 @@
-# hackathon-another
-second repo to test synch
+# hackathon
+Test repo for faros ai
